@@ -50,11 +50,15 @@ table {
 	border-collapse: collapse;
 	border-spacing: 0;
 }
+h1 {
+  font-family: 'Roboto', sans-serif;
+}
+p {
+  font-size: 0.8rem;
+  font-family: 'Roboto', sans-serif;
+}
 
 .App {
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  max-width: 90%;
+  max-width: 500px;
   margin: 0 auto;
 }

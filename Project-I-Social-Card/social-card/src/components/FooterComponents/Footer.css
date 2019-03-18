@@ -1,0 +1,25 @@
+.footer-container {
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+}
+.chat-icon {
+    width: 30px;
+    height: 30px;
+    margin-right: 20px;
+}
+.refresh-icon {
+    width: 30px;
+    height: 30px;
+    margin-right: 20px;
+}
+.heart-icon {
+    width: 30px;
+    height: 30px;
+    margin-right: 20px;
+}
+.message-icon {
+    width: 30px;
+    height: 30px;
+    margin-right: 20px;
+}

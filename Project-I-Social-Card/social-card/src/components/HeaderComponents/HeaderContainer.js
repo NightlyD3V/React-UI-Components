@@ -6,10 +6,14 @@ import Logo from './ImageThumbnail';
 
 const HeaderContainer = () => {
     return (
-        <div>
-            <Logo />
-            <HeaderTitle />
-            <HeaderContent />
+        <div className="header-container">
+            <div className="logo-container">
+                <Logo />
+            </div>
+            <div className="text-container">
+                <HeaderTitle />
+                <HeaderContent />
+            </div>
         </div>
     );
 }
