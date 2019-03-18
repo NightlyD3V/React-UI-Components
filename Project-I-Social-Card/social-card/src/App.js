@@ -1,5 +1,7 @@
 import React from 'react';
 import './App.css';
+import './components/CardComponents/CardBanner';
+import CardBanner from './components/CardComponents/CardBanner';
 
 const App = () => {
   return (
