@@ -1,1 +1,8 @@
 /* All styles for your Card Components live here */
+.card-container {
+    background-color: lightblue;
+}
+.react-img {
+    width: 50%;
+    height: 50%;
+}
