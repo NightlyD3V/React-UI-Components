@@ -34,3 +34,10 @@
     height: 20px;
     margin-right: 10px;
 }
+
+@media (max-width: 400px) {
+    .footer-container {
+        margin: 10px 0px 20px 0px;
+        justify-content: center;
+    }
+}
