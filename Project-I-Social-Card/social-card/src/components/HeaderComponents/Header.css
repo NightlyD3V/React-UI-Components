@@ -24,4 +24,6 @@
 .logo {
     object-fit: contain;
     width: 50px;
+    position: relative;
+    bottom: 5px;
 }
