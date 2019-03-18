@@ -3,7 +3,7 @@ import './Card.css';
 
 const CardBanner = () => {
     return (
-        <img className="react-img" src="https://cdn.evilmartians.com/front/posts/optimizing-react-virtual-dom-explained/cover-a1d5b40.png"></img>
+        <img className="react-img" src="https://hdwallpaperim.com/wp-content/uploads/2017/08/25/461264-reactJS-Facebook-JavaScript-minimalism-artwork-simple_background.jpg"></img>
     );
 };
 

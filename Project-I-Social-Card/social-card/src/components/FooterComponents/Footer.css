@@ -1,25 +1,36 @@
 .footer-container {
-    padding: 10px;
+    margin: 10px 0px 20px 70px;
     display: flex;
-    justify-content: center;
+}
+.chat-container {
+    display: flex;
+    margin-right: 40px;
 }
 .chat-icon {
-    width: 30px;
-    height: 30px;
-    margin-right: 20px;
+    width: 20px;
+    height: 20px;
+    margin-right: 10px;
 }
-.refresh-icon {
-    width: 30px;
-    height: 30px;
-    margin-right: 20px;
+.share-container {
+    display: flex;
+    margin-right: 40px;
+}
+.share-icon {
+    width: 20px;
+    height: 20px;
+    margin-right: 10px;
+}
+.heart-container {
+    display: flex;
+    margin-right: 40px;
 }
 .heart-icon {
-    width: 30px;
-    height: 30px;
-    margin-right: 20px;
+    width: 20px;
+    height: 20px;
+    margin-right: 10px;
 }
 .message-icon {
-    width: 30px;
-    height: 30px;
-    margin-right: 20px;
+    width: 20px;
+    height: 20px;
+    margin-right: 10px;
 }
