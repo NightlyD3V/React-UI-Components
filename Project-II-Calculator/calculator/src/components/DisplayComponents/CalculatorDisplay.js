@@ -3,7 +3,7 @@ import './Display.css';
 
 const Display = props => {
     return (
-        <div className={props.displayStyle}>0</div>
+        <div className={props.displayStyle}>{props.text}</div>
     );
 }
 
