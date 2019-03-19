@@ -1,0 +1,43 @@
+.footer-container {
+    margin: 10px 0px 20px 70px;
+    display: flex;
+}
+.chat-container {
+    display: flex;
+    margin-right: 40px;
+}
+.chat-icon {
+    width: 20px;
+    height: 20px;
+    margin-right: 10px;
+}
+.share-container {
+    display: flex;
+    margin-right: 40px;
+}
+.share-icon {
+    width: 20px;
+    height: 20px;
+    margin-right: 10px;
+}
+.heart-container {
+    display: flex;
+    margin-right: 40px;
+}
+.heart-icon {
+    width: 20px;
+    height: 20px;
+    margin-right: 10px;
+}
+.message-icon {
+    width: 20px;
+    height: 20px;
+    margin-right: 10px;
+}
+
+@media (max-width: 400px) {
+    .footer-container {
+        margin: 10px 0px 20px 0px;
+        justify-content: center;
+    }
+}
